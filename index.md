@@ -35,3 +35,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### $\bbox[5px,border:2px solid green]{1.2积分形式}$
+$$
+\def\ooint{{\bigcirc}\kern-11.5pt{\int}\kern-6.5pt{\int}}
+\def\oooint{{\bigcirc}\kern-12.3pt{\int}\kern-7pt{\int}\kern-7pt{\int}}
+\begin{align}
+\ooint_s B.ds= & 0\tag{2.1}\\
+\ooint_sD.ds= & q_0\tag{2.2}\\
+\oint_l E.dl= & -\iint_s\frac{\partial B}{\partial t}ds\tag{2.3}\\
+\oint_l H.dl= & I_0+\iint_s \frac{\partial D}{\partial t}.ds\tag{2.4}
+\end{align}
+$$
